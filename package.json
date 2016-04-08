@@ -7,14 +7,14 @@
     "type": "git",
     "url": "git+https://github.com/eckelpa/req-header-parser"
   },
-  "homepage": "http://github.com/eckelpa",
+  "homepage": "https://github.com/eckelpa",
   "bugs": "https://github.com/eckelpa/req-header-parser/issues",
   "keywords": [
     "full stack",
     "Express",
     "Node",
     "javascript",
-    "celemntinejs"
+    "clementinejs"
   ],
   "scripts": {
   "start": "node server.js"
@@ -22,6 +22,6 @@
   "author": "Pascal E.",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.4",
+    "express": "^4.12.4"
   }
 }
